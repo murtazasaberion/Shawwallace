@@ -1,0 +1,16 @@
+sts_bs("jwscroller2dbd",[20080623,"brands_images/","","blank.gif",11,1,1,5,"1000px","left",0,15,80,50,0,50,0,0,0,3000,1,24,1,"stEffect(\"scroll(Rate=24,enabled=0,Duration=0.91)\")",-2,19],["none",1,"#454545","#FFFFFF","","repeat"]);
+sts_sca(["center","middle","center","middle"],["arow-left.jpg","arow-left.jpg","arow-left.jpg",7,15,"arow-right.jpg","arow-right.jpg","arow-right.jpg",7,15]);
+sts_tbd([1],["solid",1,"#454545",5,"round_tl.gif","round_tr.gif","round_br.gif","round_bl.gif","transparent","round_t.gif","repeat","transparent","round_r.gif","repeat","transparent","round_b.gif","repeat","transparent","round_l.gif","repeat"]);
+sts_ai("i0",[0,"","","_self","renuka.jpg",80,50,"center"],["transparent","9pt Verdana,Arial","#000000","none","9pt Verdana,Arial","#000000","none"]);
+sts_ai("i1",[,,,,"makaral-plaza.jpg"],[],"i0","i0");
+sts_ai("i2",[,,,,"capatn.jpg"],[],"i0","i0");
+sts_ai("i3",[,,,,"ajinimoto.jpg"],[],"i0","i0");
+//sts_ai("i4",[,,,,"sungold.jpg"],[],"i0","i0");
+sts_ai("i5",[,,,,"sungold2.jpg"],[],"i0","i0");
+sts_ai("i6",[,,,,"rainers.jpg"],[],"i0","i0");
+sts_ai("i7",[,,,,"gold_dragon.jpg"],[],"i0","i0");
+sts_ai("i8",[,,,,"rooster.jpg"],[],"i0","i0");
+sts_ai("i9",[,,,,"selecta.jpg"],[],"i0","i0");
+sts_ai("i10",[,,,,"tangana.jpg"],[],"i0","i0");
+sts_ai("i11",[,,,,"sunflower.jpg"],[],"i0","i0");
+sts_es();
